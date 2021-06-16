@@ -1,4 +1,4 @@
-# [Rails_Demo]
+# Rails_Demo
 
 ## Project By: [Garet Rich](https://github.com/garet-rich)
 
